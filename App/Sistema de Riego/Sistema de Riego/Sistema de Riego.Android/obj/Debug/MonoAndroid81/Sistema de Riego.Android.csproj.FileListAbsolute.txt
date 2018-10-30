@@ -1,0 +1,3 @@
+D:\Visual Studio Projects\Semillero\App\Sistema de Riego\Sistema de Riego\Sistema de Riego.Android\obj\Debug\MonoAndroid81\Sistema de Riego.Android.csprojAssemblyReference.cache
+D:\Visual Studio Projects\Semillero\App\Sistema de Riego\Sistema de Riego\Sistema de Riego.Android\obj\Debug\MonoAndroid81\res.flag
+D:\Visual Studio Projects\Semillero\App\Sistema de Riego\Sistema de Riego\Sistema de Riego.Android\obj\Debug\MonoAndroid81\Sistema de Riego.Android.csproj.CoreCompileInputs.cache
